@@ -6,20 +6,20 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>ariana grande</h1>
+    <h1>coritiba futebol club</h1>
     <ul>
         <li> 
-            <h2>7 rings</h2>
-            <img src="índice.jpeg">
-            <p>essa  minha musica preferida</p>
+            <h2>couto pereira</h2>
+            <img src="https://images.app.goo.gl/bi2CLxxAY91ivYSp6">
+            <p>melhor estadio de cwb</p>
         </li>
-        <li> <h2> everyday</h2>
-            <img src="maxresdefault.jpg">
-            <p> Essa musica foi lançada em 2016</p>
+        <li> <h2> idolos</h2>
+            <img src="https://images.app.goo.gl/Wm17s8bWNt4VKUWe8">
+            <p> jogadores que fizeram "historia"</p>
         </li>
-        <li> <h2>positions </h2>
-            <img src="ariana-funk.webp">
-            <p>essa é a musica que eu mais escuto</p>
+        <li> <h2>titulos</h2>
+            <img src="https://images.app.goo.gl/RRimK83znMW6TxCPA">
+            <p>42 titulos ao total</p>
         </li>
         </ul>
     
